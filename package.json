@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos-javascript-salvatore-academy",
+  "version": "1.0.0",
+  "description": "<b>PT-BR </b> <br> Projeto da Missão de Aprendizado do nível iniciante: Fundamentos do JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
